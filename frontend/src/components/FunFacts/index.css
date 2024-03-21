@@ -1,0 +1,8 @@
+.bin{
+    display: flex;
+    background: transparent;
+    border: none;
+    margin-top: 21px;
+    margin-left: 15px;
+    width: 40px;
+  }
